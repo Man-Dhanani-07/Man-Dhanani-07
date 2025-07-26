@@ -1,4 +1,3 @@
-Sure! Here’s a draft for your GitHub README, styled similarly to your friend’s, but tailored to your profile and based on your resume content.
 
 ---
 Hi, I'm Man Dhanani 
